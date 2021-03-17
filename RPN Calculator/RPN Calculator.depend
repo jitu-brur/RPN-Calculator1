@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615993868 source:c:\users\jebun naher jitu\onedrive\desktop\rpn calculator\getch.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"calc.h"
+
+1615999614 c:\users\jebun naher jitu\onedrive\desktop\rpn calculator\calc.h
+
+1615993868 source:c:\users\jebun naher jitu\onedrive\desktop\rpn calculator\getop.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1615993868 source:c:\users\jebun naher jitu\onedrive\desktop\rpn calculator\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"calc.h"
+
